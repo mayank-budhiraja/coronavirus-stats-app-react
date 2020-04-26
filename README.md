@@ -1,7 +1,7 @@
 # Covid App React Boilerplate
 Everybody is dealing with novel coronavirus pandemic; use this boilerplate code to start building your app now.
 
-/Users/mayankbudhiraja/Desktop/appcorona/demo/app-corona.gif
+https://github.com/mayank-budhiraja/Covid-App-React-Boilerplate/blob/master/demo/app-corona.gif
 
 ## Run
 ```
