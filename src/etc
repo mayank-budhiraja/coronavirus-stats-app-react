@@ -1,0 +1,15 @@
+<Card
+                    icon={<SvgDeath width={48} height={48} />}
+                    number={summaryData.deaths}
+                    subtitle={'death'}
+                    placeholder={!summaryData.cases}
+                    />
+
+<Card
+                    icon={<SvgSick width={48} height={48} />}
+                    number={
+                        summaryData.cases - summaryData.recovered - summaryData.deaths
+                    }
+                    subtitle= {'activeSick'}
+                    placeholder={!summaryData.cases}
+                    />
