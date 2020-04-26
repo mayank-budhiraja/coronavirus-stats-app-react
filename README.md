@@ -11,8 +11,9 @@ Step 3 - npx react-native run-android
 ```
 
 ## Packages
-React-Native
-React Navigation (Material Top Tab Bar)
-React Native Pie
-Styled System
-Styled Components
+
+- React-Native
+- React Navigation (Material Top Tab Bar)
+- React Native Pie
+- Styled System
+- Styled Components
