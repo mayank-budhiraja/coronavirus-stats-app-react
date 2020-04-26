@@ -5,9 +5,9 @@ Everybody is dealing with novel coronavirus pandemic; use this boilerplate code 
 
 ## Run
 ```
-Step 1 - git clone https://github.com/mayank-budhiraja/Covid-App-React-Boilerplate.git
-Step 2 - npm install
-Step 3 - npx react-native run-android
+git clone https://github.com/mayank-budhiraja/Covid-App-React-Boilerplate.git
+npm install
+npx react-native run-android
 ```
 
 ## Packages
